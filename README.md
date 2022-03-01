@@ -1,6 +1,6 @@
-# kodluyoruz ilk repo
+# Kodluyoruz İlk Repo
 
-Bu repo [Kodluyoruz](https://www.kosluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Bu repo [Kodluyoruz](https://www.kosluyoruz.org) Java Backend Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 
 ![](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
@@ -11,7 +11,7 @@ Bu repo [Kodluyoruz](https://www.kosluyoruz.org) Front-End Eğitiminde oluşturd
 
 ```
 git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
-}
+
 ```
 ## Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
